@@ -35,24 +35,6 @@ Target variable:
 7. Evaluation
 8. Conclusion
 
-## Results
-
-### Obesity Level Distribution
-
-![Distribution](images/obesity_distribution.png)
-
-### Correlation Heatmap
-
-![Heatmap](images/correlation_heatmap.png)
-
-### Feature Importance
-
-![Feature Importance](images/feature_importance.png)
-
-### Confusion Matrix
-
-![Confusion Matrix](images/confusion_matrix.png)
-
 ## Repository Structure
 
 ```text
